@@ -16,7 +16,7 @@ const foodItem= [
     price: 15,
     img: 'images/biryani/Chicken-Biryani-hyd.jpg',
     quantity: 1
-},*/
+},
 {
     id: 3,
     name: 'Egg Biryani',
@@ -25,7 +25,7 @@ const foodItem= [
     price: 18,
     img: 'images/biryani/egg-biryani.jpeg',
     quantity: 1
-},
+}, */
 {
     id: 4,
     name: 'Goan Fish Biryani',

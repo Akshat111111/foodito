@@ -110,7 +110,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.8,
     price: 20,
-    img: 'images/chicken/Chicken_roast.jpg',
+    img: 'images/Starters/samosa.jpg',
     quantity: 1
 },
 {
@@ -119,7 +119,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 20,
-    img: 'images/chicken/Chicken-Curry.jpg',
+    img: 'images/Starters/corn kachori.jpg',
     quantity: 1
 },
 {
@@ -128,7 +128,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.5,
     price: 20,
-    img: 'images/chicken/Chicken-do-Pyaza.jpg',
+    img: 'images/Starters/panipuri.jpg',
     quantity: 1
 },
 {
@@ -137,7 +137,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.1,
     price: 80,
-    img: 'images/chicken/Chicken-Masala.jpeg',
+    img: 'images/Starters/cutlet.jpeg',
     quantity: 1
 },
   {
@@ -146,7 +146,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.8,
     price: 70,
-    img: 'images/chicken/Handi-chicken.jpg',
+    img: 'images/Starters/kamandhokla.jpg',
     quantity: 1
 },
     

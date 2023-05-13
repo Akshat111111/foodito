@@ -2,7 +2,7 @@ const foodItem= [
     {
     id: 1,
     name: 'Rabdi',
-    category : 'Deserts',
+    category : 'biryani',
     rating : 4.8,
     price: 70,
     img: 'images/biryani/Ambur-Chicken-Biryani.jpg',
@@ -35,7 +35,7 @@ const foodItem= [
     {
     id: 4,
     name: 'Rasmalai',
-    category : 'Deserts',
+    category : 'biryani',
     rating : 4.9,
     price: 60,
     img: 'images/biryani/goan-fish-biryani.jpg',
@@ -44,7 +44,7 @@ const foodItem= [
 {
     id: 5,
     name: 'Kesar Kulfi',
-    category : 'Deserts',
+    category : 'biryani',
     rating : 4.8,
     price: 30,
     img: 'images/biryani/hyd-Mutton-Biryani.jpg',
@@ -53,7 +53,7 @@ const foodItem= [
 {
     id: 6,
     name: 'Gajar Halwa',
-    category : 'Deserts',
+    category : 'biryani',
     rating : 4.3,
     price: 100,
     img: 'images/biryani/kamrupi-biryani.jpg',
@@ -62,7 +62,7 @@ const foodItem= [
 {
     id: 7,
     name: 'Gulab Jamun',
-    category : 'Deserts',
+    category : 'biryani',
     rating : 4.9,
     price: 60,
     img: 'images/biryani/kashmiri.pulao.jpg',
@@ -71,7 +71,7 @@ const foodItem= [
 {
     id: 8,
     name: 'Jalebi',
-    category : 'Deserts',
+    category : 'biryani',
     rating : 4.1,
     price: 50,
     img: 'images/biryani/memonibiryani.png',
@@ -86,7 +86,18 @@ const foodItem= [
     img: 'images/biryani/mughlai-biryani.jpg',
     quantity: 1
 }, */
+// The above commented code is same as the code with category Deserts, as Deserts category likhne se Deserts will be displayed in 
+    //the website but iss category ka product nhi dikhega.
     
+    {
+    id: 9,
+    name: 'Mughlai Biryani',
+    category : 'deserts',
+    rating : 4.3,
+    price: 15,
+    img: 'images/biryani/mughlai-biryani.jpg',
+    quantity: 1
+},
     
     
     

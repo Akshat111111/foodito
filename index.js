@@ -1,9 +1,9 @@
 import {foodItem} from './fooditem.js'
 
 function displayItems(){
-   // var biryani= document.getElementById('biryani');
+   var biryani= document.getElementById('biryani');
     var paneer=  document.getElementById('paneer');;
-   // var chicken=  document.getElementById('chicken');
+    var chicken=  document.getElementById('chicken');
     var vegetable=  document.getElementById('vegetable');
     var chinese=  document.getElementById('chinese');
     var southIndian=  document.getElementById('south-indian');

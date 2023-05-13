@@ -26,36 +26,40 @@ const foodItem= [
     img: 'images/biryani/egg-biryani.jpeg',
     quantity: 1
 }, */
-{
+
+    
+    
+    
+    {
     id: 4,
-    name: 'Goan Fish Biryani',
+    name: 'Rasmalai',
     category : 'biryani',
-    rating : 4.3,
+    rating : 4.9,
     price: 15,
     img: 'images/biryani/goan-fish-biryani.jpg',
     quantity: 1
 },
 {
     id: 5,
-    name: 'Mutton Biryani',
+    name: 'Kesar Kulfi',
     category : 'biryani',
-    rating : 4.3,
+    rating : 4.8,
     price: 10,
     img: 'images/biryani/hyd-Mutton-Biryani.jpg',
     quantity: 1
 },
 {
     id: 6,
-    name: 'Kamrupi Biryani',
+    name: 'Gajar Halwa',
     category : 'biryani',
     rating : 4.3,
-    price: 12,
+    price: 10,
     img: 'images/biryani/kamrupi-biryani.jpg',
     quantity: 1
 },
 {
     id: 7,
-    name: 'Kashmiri Biryani',
+    name: 'Gulab Jamun',
     category : 'biryani',
     rating : 4.3,
     price: 13,
@@ -64,14 +68,14 @@ const foodItem= [
 },
 {
     id: 8,
-    name: 'Memoni Biryani',
+    name: 'Jalebi',
     category : 'biryani',
     rating : 4.3,
     price: 20,
     img: 'images/biryani/memonibiryani.png',
     quantity: 1
 },
-{
+/*{
     id: 9,
     name: 'Mughlai Biryani',
     category : 'biryani',
@@ -79,7 +83,7 @@ const foodItem= [
     price: 15,
     img: 'images/biryani/mughlai-biryani.jpg',
     quantity: 1
-},
+}, */
 {
     id: 10,
     name: 'Chicken Roast',

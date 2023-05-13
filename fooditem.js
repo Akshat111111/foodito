@@ -1,9 +1,9 @@
 const foodItem= [
     {
     id: 1,
-    name: 'Ambur Biryani',
+    name: 'Rabdi',
     category : 'biryani',
-    rating : 4.3,
+    rating : 4.8,
     price: 13,
     img: 'images/biryani/Ambur-Chicken-Biryani.jpg',
     quantity: 1

@@ -61,7 +61,7 @@ const foodItem= [
     id: 7,
     name: 'Gulab Jamun',
     category : 'biryani',
-    rating : 4.3,
+    rating : 4.9,
     price: 13,
     img: 'images/biryani/kashmiri.pulao.jpg',
     quantity: 1
@@ -70,7 +70,7 @@ const foodItem= [
     id: 8,
     name: 'Jalebi',
     category : 'biryani',
-    rating : 4.3,
+    rating : 4.1,
     price: 20,
     img: 'images/biryani/memonibiryani.png',
     quantity: 1
@@ -125,16 +125,16 @@ const foodItem= [
     img: 'images/chicken/Chicken-Masala.jpeg',
     quantity: 1
 },
- /* {
+  {
     id: 14,
-    name: 'Handi Chicken',
+    name: 'Kaman Dhokla',
     category : 'chicken',
-    rating : 4.3,
+    rating : 4.8,
     price: 17,
     img: 'images/chicken/Handi-chicken.jpg',
     quantity: 1
 },
-{
+/*{
     id: 15,
     name: 'Murgh Musallam',
     category : 'chicken',

@@ -1,7 +1,7 @@
 import {foodItem} from './fooditem.js'
 
 function displayItems(){
-   var Deserts= document.getElementById('Deserts');
+   var biryani= document.getElementById('biryani');
     var paneer=  document.getElementById('paneer');;
     var chicken=  document.getElementById('chicken');
     var vegetable=  document.getElementById('vegetable');
@@ -16,6 +16,13 @@ function displayItems(){
     const vegetableData= foodItem.filter((item)=>item.category=='vegetable');
     const chineseData= foodItem.filter((item)=>item.category=='chinese');
     const southData= foodItem.filter((item)=>item.category=='south indian');
+   
+   
+   
+   
+   // Fxns 
+   
+   
     biryaniData.map(item=>{
         
         var itemCard= document.createElement('div');
@@ -56,6 +63,8 @@ function displayItems(){
         biryani.appendChild(itemCard);
         
     })
+   
+   
 
 
     chickenData.map(item=>{
@@ -97,6 +106,8 @@ function displayItems(){
         chicken.appendChild(itemCard)
 
     })
+   
+   
 
     PaneerData.map(item=>{
         var itemCard= document.createElement('div');
@@ -137,6 +148,9 @@ function displayItems(){
         paneer.appendChild(itemCard)
 
     })
+   
+   
+   
 
     vegetableData.map(item=>{
         var itemCard= document.createElement('div');
@@ -178,6 +192,9 @@ function displayItems(){
         vegetable.appendChild(itemCard)
     
     })
+   
+   
+   
 
     chineseData.map(item=>{
         var itemCard= document.createElement('div');
@@ -219,6 +236,9 @@ function displayItems(){
         chinese.appendChild(itemCard)
         
     })
+   
+   
+   
 
     southData.map(item=>{
         var itemCard= document.createElement('div');
@@ -260,6 +280,8 @@ function displayItems(){
 
     })
 }
+
+
 displayItems();
 
 

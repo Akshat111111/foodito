@@ -87,14 +87,14 @@ background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%)
 
 }
 #food-items{
-    /*background: whitesmoke; */
+    background: whitesmoke; 
     
-    background: #00416A;  /* fallback for old browsers 
+   /* background: #00416A;  /* fallback for old browsers 
 background: -webkit-linear-gradient(to right, #FFE000, #799F0C, #00416A);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #FFE000, #799F0C, #00416A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
     
-      background-color: #FFFFFF;
+     background-color: #FFFFFF;
 background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);
     overflow: auto;
     height: calc(100vh - 86px);
@@ -107,10 +107,10 @@ background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%)
     padding-bottom: 10px;
     position: sticky;
     top: 0;
-    /*background: whitesmoke;   /*
+    background: whitesmoke;   
     
-      background-color: #FFFFFF;
-background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);
+     /* background-color: #FFFFFF;
+background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);*/
     
     
     

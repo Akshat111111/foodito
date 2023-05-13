@@ -1,7 +1,7 @@
 import {foodItem} from './fooditem.js'
 
 function displayItems(){
-    var deserts= document.getElementById('deserts');
+    var biryani= document.getElementById('biryani');
     var paneer=  document.getElementById('paneer');;
     var chicken=  document.getElementById('chicken');
     var vegetable=  document.getElementById('vegetable');

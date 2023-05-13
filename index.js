@@ -1,7 +1,7 @@
 import {foodItem} from './fooditem.js'
 
 function displayItems(){
-   var biryani= document.getElementById('biryani');
+   var biryani= document.getElementById('Deserts');
     var paneer=  document.getElementById('paneer');;
     var chicken=  document.getElementById('chicken');
     var vegetable=  document.getElementById('vegetable');
@@ -10,7 +10,7 @@ function displayItems(){
 
     
 
-    const biryaniData= foodItem.filter((item)=>item.category=='biryani');
+    const biryaniData= foodItem.filter((item)=>item.category=='Deserts');
     const chickenData= foodItem.filter((item)=>item.category=='chicken');
     const PaneerData= foodItem.filter((item)=>item.category=='paneer');
     const vegetableData= foodItem.filter((item)=>item.category=='vegetable');

@@ -35,7 +35,7 @@ const foodItem= [
     {
     id: 4,
     name: 'Rasmalai',
-    category : 'biryani',
+    category : 'Deserts',
     rating : 4.9,
     price: 60,
     img: 'images/biryani/goan-fish-biryani.jpg',
@@ -44,7 +44,7 @@ const foodItem= [
 {
     id: 5,
     name: 'Kesar Kulfi',
-    category : 'biryani',
+    category : 'Deserts',
     rating : 4.8,
     price: 30,
     img: 'images/biryani/hyd-Mutton-Biryani.jpg',
@@ -53,7 +53,7 @@ const foodItem= [
 {
     id: 6,
     name: 'Gajar Halwa',
-    category : 'biryani',
+    category : 'Deserts',
     rating : 4.3,
     price: 100,
     img: 'images/biryani/kamrupi-biryani.jpg',
@@ -62,7 +62,7 @@ const foodItem= [
 {
     id: 7,
     name: 'Gulab Jamun',
-    category : 'biryani',
+    category : 'Deserts',
     rating : 4.9,
     price: 60,
     img: 'images/biryani/kashmiri.pulao.jpg',
@@ -71,7 +71,7 @@ const foodItem= [
 {
     id: 8,
     name: 'Jalebi',
-    category : 'biryani',
+    category : 'Deserts',
     rating : 4.1,
     price: 50,
     img: 'images/biryani/memonibiryani.png',

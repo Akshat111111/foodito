@@ -107,7 +107,14 @@ background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%)
     padding-bottom: 10px;
     position: sticky;
     top: 0;
-    background: whitesmoke;
+    /*background: whitesmoke;   /*
+    
+      background-color: #FFFFFF;
+background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);
+    
+    
+    
+    
     z-index: 1;
 }
 ::-webkit-scrollbar{

@@ -137,7 +137,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.1,
     price: 80,
-    img: 'images/Starters/cutlet.jpeg',
+    img: 'images/Starters/cutlet.jpg',
     quantity: 1
 },
   {

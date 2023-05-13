@@ -84,18 +84,23 @@ const foodItem= [
     img: 'images/biryani/mughlai-biryani.jpg',
     quantity: 1
 }, */
+    
+    
+    
+    
+    
 {
     id: 10,
-    name: 'Chicken Roast',
+    name: 'Samosa',
     category : 'chicken',
-    rating : 4.3,
-    price: 11,
+    rating : 4.8,
+    price: 10,
     img: 'images/chicken/Chicken_roast.jpg',
     quantity: 1
 },
 {
     id: 11,
-    name: 'Chicken Curry',
+    name: 'Korn Kachori',
     category : 'chicken',
     rating : 4.3,
     price: 10,
@@ -104,23 +109,23 @@ const foodItem= [
 },
 {
     id: 12,
-    name: 'Chicken Do Pyaza',
+    name: 'Pani Puri',
     category : 'chicken',
-    rating : 4.3,
-    price: 14,
+    rating : 4.5,
+    price: 10,
     img: 'images/chicken/Chicken-do-Pyaza.jpg',
     quantity: 1
 },
 {
     id: 13,
-    name: 'Chicken Masala',
+    name: 'Cutlet',
     category : 'chicken',
-    rating : 4.3,
-    price: 12,
+    rating : 4.1,
+    price: 20,
     img: 'images/chicken/Chicken-Masala.jpeg',
     quantity: 1
 },
-{
+ /* {
     id: 14,
     name: 'Handi Chicken',
     category : 'chicken',
@@ -137,7 +142,7 @@ const foodItem= [
     price: 20,
     img: 'images/chicken/Murgh-Musallam.jpg',
     quantity: 1
-},
+},  */
 {
     id: 16,
     name: 'Matar Paneer',

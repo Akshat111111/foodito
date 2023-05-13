@@ -20,7 +20,13 @@ body{
     overflow: hidden;
 }
 #menu{
-    background: whitesmoke;
+  /*  background: whitesmoke; */
+    
+    background: rgb(34,193,195);
+background: -moz-linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,45,67,1) 100%);
+background: -webkit-linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,45,67,1) 100%);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,45,67,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#22c1c3",endColorstr="#fd2d43",GradientType=1);
 }
 .title{
     padding: 0 30px;
@@ -511,6 +517,11 @@ color: white;
 }
 
 @media screen and (max-width : 400px) and (-webkit-min-device-pixel-ratio: 2){
+  
+    
+    
+    
+    
     #mobile-view{
         min-height: -webkit-fill-available;
     }

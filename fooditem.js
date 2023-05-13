@@ -4,10 +4,12 @@ const foodItem= [
     name: 'Rabdi',
     category : 'biryani',
     rating : 4.8,
-    price: 13,
+    price: 70,
     img: 'images/biryani/Ambur-Chicken-Biryani.jpg',
     quantity: 1
 }, 
+    
+    
 /*{
     id: 2,
     name: 'Hyderabadi Biryani',
@@ -35,7 +37,7 @@ const foodItem= [
     name: 'Rasmalai',
     category : 'biryani',
     rating : 4.9,
-    price: 15,
+    price: 60,
     img: 'images/biryani/goan-fish-biryani.jpg',
     quantity: 1
 },
@@ -44,7 +46,7 @@ const foodItem= [
     name: 'Kesar Kulfi',
     category : 'biryani',
     rating : 4.8,
-    price: 10,
+    price: 30,
     img: 'images/biryani/hyd-Mutton-Biryani.jpg',
     quantity: 1
 },
@@ -53,7 +55,7 @@ const foodItem= [
     name: 'Gajar Halwa',
     category : 'biryani',
     rating : 4.3,
-    price: 10,
+    price: 100,
     img: 'images/biryani/kamrupi-biryani.jpg',
     quantity: 1
 },
@@ -62,7 +64,7 @@ const foodItem= [
     name: 'Gulab Jamun',
     category : 'biryani',
     rating : 4.9,
-    price: 13,
+    price: 60,
     img: 'images/biryani/kashmiri.pulao.jpg',
     quantity: 1
 },
@@ -71,7 +73,7 @@ const foodItem= [
     name: 'Jalebi',
     category : 'biryani',
     rating : 4.1,
-    price: 20,
+    price: 50,
     img: 'images/biryani/memonibiryani.png',
     quantity: 1
 },
@@ -94,7 +96,7 @@ const foodItem= [
     name: 'Samosa',
     category : 'chicken',
     rating : 4.8,
-    price: 10,
+    price: 20,
     img: 'images/chicken/Chicken_roast.jpg',
     quantity: 1
 },
@@ -103,7 +105,7 @@ const foodItem= [
     name: 'Korn Kachori',
     category : 'chicken',
     rating : 4.3,
-    price: 10,
+    price: 20,
     img: 'images/chicken/Chicken-Curry.jpg',
     quantity: 1
 },
@@ -112,7 +114,7 @@ const foodItem= [
     name: 'Pani Puri',
     category : 'chicken',
     rating : 4.5,
-    price: 10,
+    price: 20,
     img: 'images/chicken/Chicken-do-Pyaza.jpg',
     quantity: 1
 },
@@ -121,7 +123,7 @@ const foodItem= [
     name: 'Cutlet',
     category : 'chicken',
     rating : 4.1,
-    price: 20,
+    price: 80,
     img: 'images/chicken/Chicken-Masala.jpeg',
     quantity: 1
 },
@@ -130,10 +132,12 @@ const foodItem= [
     name: 'Kaman Dhokla',
     category : 'chicken',
     rating : 4.8,
-    price: 17,
+    price: 70,
     img: 'images/chicken/Handi-chicken.jpg',
     quantity: 1
 },
+    
+    
 /*{
     id: 15,
     name: 'Murgh Musallam',
@@ -143,12 +147,15 @@ const foodItem= [
     img: 'images/chicken/Murgh-Musallam.jpg',
     quantity: 1
 },  */
+    
+    
+    
 {
     id: 16,
     name: 'Matar Paneer',
     category : 'paneer',
     rating : 4.3,
-    price: 15,
+    price: 150,
     img: 'images/paneer/Matar-Paneer.jpg',
     quantity: 1
 
@@ -158,7 +165,7 @@ const foodItem= [
     name: 'Palak Paneer',
     category : 'paneer',
     rating : 4.3,
-    price: 10,
+    price: 140,
     img: 'images/paneer/palak-paneer.jpg',
     quantity: 1
 },
@@ -167,7 +174,7 @@ const foodItem= [
     name: 'Paneer Butter Masala',
     category : 'paneer',
     rating : 4.3,
-    price: 15,
+    price: 150,
     img: 'images/paneer/paneer-butter-masala.jpg',
     quantity: 1
 
@@ -177,26 +184,30 @@ const foodItem= [
     name: 'Paneer Do Pyaza',
     category : 'paneer',
     rating : 4.3,
-    price: 12,
+    price: 80,
     img: 'images/paneer/Paneer-Do-Pyaza.jpg',
     quantity: 1
 
 },
-{
+    
+    
+/*{
     id: 20,
     name: 'Hyderabadi Paneer',
     category : 'paneer',
-    rating : 4.3,
+    rating : 4.0,
     price: 8,
     img: 'images/paneer/Paneer-Hyderabadi.jpg',
     quantity: 1
-},
+}, */
+
+
 {
     id: 21,
     name: 'Paneer Lababdar',
     category : 'paneer',
-    rating : 4.3,
-    price: 7,
+    rating : 4.9,
+    price: 160,
     img: 'images/paneer/paneer-lababdar.jpg',
     quantity: 1
 },
@@ -205,8 +216,8 @@ const foodItem= [
     name: 'Shahi Paneer',
     age: '32',
     category : 'paneer',
-    rating : 4.3,
-    price: 5,
+    rating : 4.7,
+    price: 150,
     img: 'images/paneer/shahi-paneer.jpg',
     quantity: 1
 },
@@ -214,8 +225,8 @@ const foodItem= [
     id: 23,
     name: 'Navratan Korma',
     category : 'vegetable',
-    rating : 4.3,
-    price: 8,
+    rating : 4.1,
+    price: 140,
     img: 'images/vegetable/navratan-korma_-vegetable.png',
     quantity: 1
 },
@@ -224,7 +235,7 @@ const foodItem= [
     name: 'Veg Jalfrezi',
     category : 'vegetable',
     rating : 4.3,
-    price: 7,
+    price: 90,
     img: 'images/vegetable/VEG-JALFREZI.jpg',
     quantity: 1
 },
@@ -232,8 +243,8 @@ const foodItem= [
     id: 25,
     name: 'Veg Biryani',
     category : 'vegetable',
-    rating : 4.3,
-    price: 5,
+    rating : 4.2,
+    price: 100,
     img: 'images/vegetable/vegetable-biryani.jpg',
     quantity: 1
 },
@@ -241,8 +252,8 @@ const foodItem= [
     id: 26,
     name: 'Veg Curry',
     category : 'vegetable',
-    rating : 4.3,
-    price: 7,
+    rating : 4.9,
+    price: 150,
     img: 'images/vegetable/vegetable-curry.jpeg',
     quantity: 1
 },
@@ -250,8 +261,8 @@ const foodItem= [
     id: 27,
     name: 'Veg Kolhapur',
     category : 'vegetable',
-    rating : 4.3,
-    price: 10,
+    rating : 4.0,
+    price: 130,
     img: 'images/vegetable/vegetable-kolhapuri.jpg',
     quantity: 1
 },
@@ -259,8 +270,8 @@ const foodItem= [
     id: 28,
     name: 'Veg Masala',
     category : 'vegetable',
-    rating : 4.3,
-    price: 4,
+    rating : 3.9,
+    price: 120,
     img: 'images/vegetable/vegetable-masala.jpg',
     quantity: 1
 },
@@ -269,7 +280,7 @@ const foodItem= [
     name: 'Veg Pakora',
     category : 'vegetable',
     rating : 4.3,
-    price: 4,
+    price: 30,
     img: 'images/vegetable/vegetable-pakora.jpg',
     quantity: 1
 },
@@ -277,8 +288,8 @@ const foodItem= [
     id: 30,
     name: 'Momos',
     category : 'chinese',
-    rating : 4.3,
-    price: 8,
+    rating : 4.0,
+    price: 40,
     img: 'images/chinese/cabbage-momos-.jpg',
     quantity: 1
 },
@@ -286,8 +297,8 @@ const foodItem= [
     id: 31,
     name: 'Chicken Manchurian',
     category : 'chinese',
-    rating : 4.3,
-    price: 7,
+    rating : 3.9,
+    price: 90,
     img: 'images/chinese/ChickenManchurian.jpg',
     quantity: 1
 },
@@ -295,8 +306,8 @@ const foodItem= [
     id: 32,
     name: 'Chili Chicken',
     category : 'chinese',
-    rating : 4.3,
-    price: 5,
+    rating : 4.1,
+    price: 80,
     img: 'images/chinese/Chili-Chicken.jpg',
     quantity: 1
 },
@@ -305,7 +316,7 @@ const foodItem= [
     name: 'Chowmein',
     category : 'chinese',
     rating : 4.3,
-    price: 16,
+    price: 50,
     img: 'images/chinese/chowmin.jpg',
     quantity: 1
 },
@@ -313,8 +324,8 @@ const foodItem= [
     id: 34,
     name: 'Spring Roll',
     category : 'chinese',
-    rating : 4.3,
-    price: 14,
+    rating : 4.7,
+    price: 60,
     img: 'images/chinese/spring-rolls.jpg',
     quantity: 1
 },
@@ -322,8 +333,8 @@ const foodItem= [
     id: 35,
     name: 'Szechuan Chicken',
     category : 'chinese',
-    rating : 4.3,
-    price: 10,
+    rating : 4.1,
+    price: 90,
     img: 'images/chinese/szechuan-chicken.jpg',
     quantity: 1
 },
@@ -331,8 +342,8 @@ const foodItem= [
     id: 36,
     name: 'Fried Rice',
     category : 'chinese',
-    rating : 4.3,
-    price: 8,
+    rating : 4.1,
+    price: 50,
     img: 'images/chinese/veg-fried-rice.jpg',
     quantity: 1
 },
@@ -340,8 +351,8 @@ const foodItem= [
     id: 37,
     name: 'Butter Masala Dosa',
     category : 'south indian',
-    rating : 4.3,
-    price: 18,
+    rating : 4.7,
+    price: 60,
     img: 'images/south indian/Butter-Masala-Dosa.png',
     quantity: 1
 },
@@ -349,7 +360,7 @@ const foodItem= [
     id: 38,
     name: 'Idli',
     category : 'south indian',
-    rating : 4.3,
+    rating : 4.9,
     price: 20,
     img: 'images/south indian/idli-with-rice-flour.jpg',
     quantity: 1
@@ -358,8 +369,8 @@ const foodItem= [
     id: 39,
     name: 'Masala Dosa',
     category : 'south indian',
-    rating : 4.3,
-    price: 12,
+    rating : 4.2,
+    price: 50,
     img: 'images/south indian/masala-dosa.jpg',
     quantity: 1
 },
@@ -367,8 +378,8 @@ const foodItem= [
     id: 40,
     name: 'Mysore Bonda',
     category : 'south indian',
-    rating : 4.3,
-    price: 10,
+    rating : 4.7,
+    price: 20,
     img: 'images/south indian/mysore-bonda.jpg',
     quantity: 1
 },
@@ -377,7 +388,7 @@ const foodItem= [
     name: 'Onion Uttapam',
     category : 'south indian',
     rating : 4.3,
-    price: 15,
+    price: 45,
     img: 'images/south indian/onion-uttapam.jpg',
     quantity: 1
 },
@@ -385,7 +396,7 @@ const foodItem= [
     id: 42,
     name: 'Plain Dosa',
     category : 'south indian',
-    rating : 4.3,
+    rating : 4.9,
     price: 40,
     img: 'images/south indian/plain-dosa.jpeg',
     quantity: 1
@@ -394,8 +405,8 @@ const foodItem= [
     id: 43,
     name: 'Rava Uttapam',
     category : 'south indian',
-    rating : 4.3,
-    price: 25,
+    rating : 4.0,
+    price: 40,
     img: 'images/south indian/Rava-Uttapam.jpg',
     quantity: 1
 },
@@ -403,8 +414,8 @@ const foodItem= [
     id: 44,
     name: 'Sambhar Vada',
     category : 'south indian',
-    rating : 4.3,
-    price: 34,
+    rating : 4.1,
+    price: 30,
     img: 'images/south indian/sambhar-vada.jpg',
     quantity: 1
 },

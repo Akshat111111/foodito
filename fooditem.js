@@ -5,7 +5,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.8,
     price: 70,
-    img: 'images/biryani/Ambur-Chicken-Biryani.jpg',
+    img: 'images/Deserts/rabdi.jpg',
     quantity: 1
 }, 
     
@@ -16,7 +16,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 15,
-    img: 'images/biryani/Chicken-Biryani-hyd.jpg',
+    img: 'images/Deserts/Chicken-Biryani-hyd.jpg',
     quantity: 1
 },
 {
@@ -38,7 +38,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.9,
     price: 60,
-    img: 'images/biryani/goan-fish-biryani.jpg',
+    img: 'images/Deserts/rasmalai.jpg',
     quantity: 1
 },
 {
@@ -47,7 +47,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.8,
     price: 30,
-    img: 'images/biryani/hyd-Mutton-Biryani.jpg',
+    img: 'images/Deserts/kesarkulfi.jpg',
     quantity: 1
 },
 {
@@ -56,7 +56,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 100,
-    img: 'images/biryani/kamrupi-biryani.jpg',
+    img: 'images/Deserts/gajarhalwa.jpg',
     quantity: 1
 },
 {
@@ -65,7 +65,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.9,
     price: 60,
-    img: 'images/biryani/kashmiri.pulao.jpg',
+    img: 'images/Deserts/gulabjamun.jpg',
     quantity: 1
 },
 {
@@ -74,7 +74,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.1,
     price: 50,
-    img: 'images/biryani/memonibiryani.png',
+    img: 'images/Deserts/jalebi.jpg',
     quantity: 1
 },
 /*{

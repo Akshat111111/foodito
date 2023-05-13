@@ -10,7 +10,7 @@ function displayItems(){
 
     
 
-    const DesertsData= foodItem.filter((item)=>item.category=='Deserts');
+    const biryaniData= foodItem.filter((item)=>item.category=='Deserts');
     const chickenData= foodItem.filter((item)=>item.category=='chicken');
     const PaneerData= foodItem.filter((item)=>item.category=='paneer');
     const vegetableData= foodItem.filter((item)=>item.category=='vegetable');

@@ -190,11 +190,11 @@ background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%)
     margin-top: 40px;   
 }
 #paneer #item-card,#vegetable #item-card{
-   /* background: rgb(218, 253, 188); */ 
+   background: rgb(218, 253, 188); 
     
-    background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);
-}
+  /*  background-color: #FFFFFF;
+  background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%); */
+} 
 }
 #chinese #item-card,#south-indian #item-card{
     background: rgb(221, 243, 243);
@@ -202,8 +202,13 @@ background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%)
 #category-name,.item-menu{
     margin: 10px;
     font-size: 35px;   
-    color: coral;
+    /*color: coral; /*
     font-family: 'Aclonica', sans-serif;
+    
+    
+    background-color: #FFFFFF;
+  background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);
+}
 }
 #item-card{
     width: 180px;

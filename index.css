@@ -202,12 +202,12 @@ background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%)
 #category-name,.item-menu{
     margin: 10px;
     font-size: 35px;   
-    /*color: coral; /*
+    color: coral; 
     font-family: 'Aclonica', sans-serif;
     
     
-    background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);
+   /* background-color: #FFFFFF;
+  background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);  */
 }
 }
 #item-card{

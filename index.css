@@ -145,7 +145,11 @@ body{
     margin-top: 40px;   
 }
 #paneer #item-card,#vegetable #item-card{
-    background: rgb(218, 253, 188);
+  /*  background: rgb(218, 253, 188); */
+    
+    background-color: #FAD961;
+background-image: linear-gradient(90deg, #FAD961 0%, #F76B1C 100%);
+
 }
 #chinese #item-card,#south-indian #item-card{
     background: rgb(221, 243, 243);

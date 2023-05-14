@@ -152,10 +152,10 @@ background-image: linear-gradient(90deg, #FAD961 0%, #F76B1C 100%);
 
 }
 #chinese #item-card,#south-indian #item-card{
-   /* background: rgb(221, 243, 243); /*
+   background: rgb(221, 243, 243); 
     
-   background-color: #FA8BFF;
-background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
+  /* background-color: #FA8BFF;
+background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);  */
 
 }
 #category-name,.item-menu{

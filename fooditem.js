@@ -8,30 +8,7 @@ const foodItem= [
     img: 'images/Deserts/rabdi.jpg',
     quantity: 1
 }, 
-    
-    
-/*{
-    id: 2,
-    name: 'Hyderabadi Biryani',
-    category : 'biryani',
-    rating : 4.3,
-    price: 15,
-    img: 'images/Deserts/Chicken-Biryani-hyd.jpg',
-    quantity: 1
-},
-{
-    id: 3,
-    name: 'Egg Biryani',
-    category : 'biryani',
-    rating : 4.3,
-    price: 18,
-    img: 'images/biryani/egg-biryani.jpeg',
-    quantity: 1
-}, */
-
-    
-    
-    
+   
     {
     id: 4,
     name: 'Rasmalai',
@@ -77,17 +54,6 @@ const foodItem= [
     img: 'images/Deserts/jalebi.jpg',
     quantity: 1
 },
-/*{
-    id: 9,
-    name: 'Mughlai Biryani',
-    category : 'biryani',
-    rating : 4.3,
-    price: 15,
-    img: 'images/biryani/mughlai-biryani.jpg',
-    quantity: 1
-}, */
-// The above commented code is same as the code with category Deserts, as Deserts category likhne se Deserts will be displayed in 
-    //the website but iss category ka product nhi dikhega.
     
     {
     id: 9,
@@ -149,17 +115,7 @@ const foodItem= [
     img: 'images/Starters/kamandhokla.jpg',
     quantity: 1
 },
-    
-    
-/*{
-    id: 15,
-    name: 'Murgh Musallam',
-    category : 'chicken',
-    rating : 4.3,
-    price: 20,
-    img: 'images/chicken/Murgh-Musallam.jpg',
-    quantity: 1
-},  */
+
     
     
     
@@ -202,17 +158,7 @@ const foodItem= [
     quantity: 1
 
 },
-    
-    
-/*{
-    id: 20,
-    name: 'Hyderabadi Paneer',
-    category : 'paneer',
-    rating : 4.0,
-    price: 8,
-    img: 'images/paneer/Paneer-Hyderabadi.jpg',
-    quantity: 1
-}, */
+   
 
 
 {
